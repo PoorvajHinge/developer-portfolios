@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1534
+## Current Portfolio Count: 1535
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1144,6 +1144,7 @@ This repo can serve as inspiration for your portfolio!
 - [Preet Suthar](https://preetsuthar.me)
 - [Prem Acharya](https://premacharya.vercel.app)
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
+- <a href="https://poorvajhinge.vercel.app/">Poorvaj Hinge</a> [Software Engineer | DevSecOps | AiOps]
 - [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
